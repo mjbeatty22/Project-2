@@ -4,12 +4,12 @@
 
 | Field | Mark's entry |
 |---|---|
-| Date and time | |
-| Original input | |
-| Changed input | |
-| My predicted effect on portfolio weights | |
-| My predicted effect on portfolio risk | |
-| My predicted effect on expected return | |
-| My predicted effect on mandate compliance | |
-| My independent financial reasoning | |
+| Date and time | 11/23/2026 at 10:58 PM |
+| Original input | Transaction cost: 25 basis points one-way |
+| Changed input | Transaction cost: 65 basis points on-way |
+| My predicted effect on portfolio weights | I think this would make it stay closer to the existing weights |
+| My predicted effect on portfolio risk | I think it will remain unchanged |
+| My predicted effect on expected return | I think it will decrease |
+| My predicted effect on mandate compliance | I think it will be noncompliant |
+| My independent financial reasoning | I just think from learning about these topics in class, this is what makes the most sense when changing the transaction cost |
 | Pre-experiment GitHub commit hash and URL | |
